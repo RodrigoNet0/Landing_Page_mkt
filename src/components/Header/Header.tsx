@@ -10,7 +10,7 @@ return(
     <p>Desenvolvedores</p>
     <button className="button">Saiba Mais</button>
     <div className="image-container">
-        <img className="image" src="https://avatars.githubusercontent.com/u/134714036?v=4" alt="imagem de uma mulher"/>
+        <img className="image" src="https://avatars.githubusercontent.com/u/134714036?v=4" alt="imagem de Rodrigo"/>
     </div>
         </div>
        
